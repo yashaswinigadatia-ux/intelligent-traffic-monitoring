@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligence traffic monitoring system
 
 ### About
@@ -60,3 +61,7 @@ go to vehicle_number_by_its_pate folder and type python3 licenseplateDetection.p
 <img src="./screenshot/IMG_20200901_104003.jpg">
 <img src="./screenshot/IMG_20200901_104044.jpg">
 <img src="./screenshot/IMG_20200902_032314.jpg">
+=======
+# intelligent-traffic-monitoring
+A YOLO-based smart traffic system using computer vision.
+>>>>>>> 2d7d26d6f659d2f13aa66b4fc61ac854e3080bf2
